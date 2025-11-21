@@ -7,23 +7,27 @@
 
   .nav-buttons a {
     display: inline-block;
-    background-color: #7C3AED;   /* purple */
+    background-color: #1C3F5A;    /* deep navy blue */
     color: white;
-    padding: 0.3rem 0.6rem;      /* smaller padding */
-    margin-right: 0.3rem;        /* smaller gap */
-    font-size: 0.85rem;          /* slightly smaller text */
+    padding: 0.3rem 0.6rem;       /* smaller buttons */
+    margin-right: 0.3rem;
+    font-size: 0.85rem;
     text-decoration: none;
-    border-radius: 3px;          /* slightly smaller corners */
-    font-weight: 600;            /* reduced boldness */
+    border-radius: 3px;
+    font-weight: 600;
   }
 
   .nav-buttons a:hover {
-    background-color: #5B21B6;
+    background-color: #162F44;   /* darker navy hover */
   }
 
-  h1 { color: #7C3AED; }
-  h2 { color: #7C3AED; }
-  h3 { color: #1C538E; }
+  /* Headings in deep navy */
+  h1 { color: #1C3F5A; }
+  h2 { color: #1C3F5A; }
+  h3 { color: #1C3F5A; }
+
+  /* If you want h3 to stay blue-ish rather than navy: */
+  /* h3 { color: #1C538E; } */
 </style>
 
 <div class="nav-buttons">

@@ -39,8 +39,8 @@
   and the vital role of computer architecture in overcoming them to advance healthcare
 </h3>
 
-**18th (Saturday) October 2025, Seoul, Korea**  
-**In conjunction with [the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO 2025)](https://microarch.org/micro58/)**
+**Saturday 31 January 2025, Sydney, Australia**  
+**In conjunction with [IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026)](https://conf.researchr.org/home/hpca-2026)**
 
 ## Workshop Description {#description}
 
@@ -52,7 +52,6 @@
 
 **<span style="color: #E48158;">Fostering Diverse and Cross-Disciplinary Discussions</span>.** Since cross-disciplinary discussions are crucial for better identifying challenges in real-world health-related applications, we aim to foster open discussions and cooperation between researchers with diverse backgrounds (i.e., from both computer architecture and health sciences communities, industry, and academia).
 
-**Time & Location:** October 18th, from 01:00 PM (KST) to 05:00 PM (KST) at Lotte Hotel Seoul (Room: Charlotte).
 
 ## Call for Presentations {#call-for-presentations}
 
@@ -85,9 +84,9 @@ We invite abstract submissions related to (but not limited to) the following top
 
 ## Key Dates {#key-dates}
 
-- **Extended Abstract Submission Deadline:** 12 September 2025
-- **Notification:** 21 September 2025
-- **Workshop Date:** 18th (Saturday) October 2025
+- **Extended Abstract Submission Deadline:** 15 December 2025
+- **Notification:** 22 December 2025
+- **Workshop Date:** 31th (Saturday) January 2026
 
 ## Organizers {#organizers}
 

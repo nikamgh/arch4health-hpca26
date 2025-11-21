@@ -2,25 +2,27 @@
 
 <style>
   .nav-buttons {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.2rem;
   }
+
   .nav-buttons a {
     display: inline-block;
-    background-color: #15A9BA;
+    background-color: #7C3AED;   /* purple */
     color: white;
-    padding: 0.5rem 1rem;
-    margin-right: 0.5rem;
+    padding: 0.3rem 0.6rem;      /* smaller padding */
+    margin-right: 0.3rem;        /* smaller gap */
+    font-size: 0.85rem;          /* slightly smaller text */
     text-decoration: none;
-    border-radius: 4px;
-    font-weight: bold;
+    border-radius: 3px;          /* slightly smaller corners */
+    font-weight: 600;            /* reduced boldness */
   }
+
   .nav-buttons a:hover {
-    background-color: #0f7f89;
+    background-color: #5B21B6;
   }
-  
-  /* color all level-1 headings red, level-2 blue, level-3 green */
-  h1 { color: #15A9BA; }
-  h2 { color: #15A9BA; }
+
+  h1 { color: #7C3AED; }
+  h2 { color: #7C3AED; }
   h3 { color: #1C538E; }
 </style>
 

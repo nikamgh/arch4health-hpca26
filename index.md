@@ -166,142 +166,15 @@ We invite abstract submissions related to (but not limited to) the following top
 
 ## Agenda & Workshop Materials {#agenda-materials}
 
-<style>
-  /* agenda table: same look as before */
-  table.agenda { width:100%; border-collapse: collapse; table-layout: fixed; }
-  table.agenda th, table.agenda td { border: 2px solid #bbb; padding: 8px; text-align:left; }
-  table.agenda thead { background:#15A9BB; color:#000; }  /* updated turquoise */
+TBD
 
-  /* ensure normal text color in body */
-  table.agenda tbody { color:#000; }
+## Previous Iteration {#previous-iteration}
 
-  /* zebra striping, applied only to session tbodies */
-  table.agenda tbody.session tr:nth-child(odd)  { background:#ffffff; }
-  table.agenda tbody.session tr:nth-child(even) { background:#f2f8fa; }
+You can find information regarding the previous iteration of the workshop (held in conjunction with MICRO 2025 in Seoul) here: 
+[https://forms.gle/8ZmbDWH6szNQBchE8](https://events.safari.ethz.ch/micro25-arch4health/)
 
-  /* coffee break row keeps its own background and doesn't affect striping */
-  table.agenda tbody.break tr td {
-    background:#d8ebe7; font-weight:700; text-align:center;
-  }
-</style>
-
-<table class="agenda">
-  <colgroup>
-    <col style="width:12%;">
-    <col style="width:32%;">  <!-- wider speaker column -->
-    <col style="width:18%;">
-    <col style="width:38%;">
-  </colgroup>
-
-  <thead>
-    <tr>
-      <th>Time</th>
-      <th>Speaker</th>
-      <th>Domain</th>
-      <th>Title</th>
-    </tr>
-  </thead>
-
-  <!-- BEFORE BREAK (keeps the beauty + borders) -->
-  <tbody class="session">
-    <tr>
-      <td>1:00–1:05</td>
-      <td>Nika Mansouri Ghiasi<br>Dr. Konstantina Koliogeorgi<br>Prof. Onur Mutlu</td>
-      <td>—</td>
-      <td>Welcome</td>
-    </tr>
-    <tr>
-      <td>1:05–1:25</td>
-      <td>Prof. Hunjun Lee<br><i>(Hanyang University)</i></td>
-      <td><b>Brain-Computer Interfaces</b></td>
-      <td>Pathfinding Future BCI System with Full-Stack Design Space Exploration</td>
-    </tr>
-    <tr>
-      <td>1:25–1:45</td>
-      <td>Prof. Lizy John<br><i>(UT Austin)</i></td>
-      <td><b>Wearables</b></td>
-      <td>Energy-Efficient Neural Networks for Medical Wearables</td>
-    </tr>
-    <tr>
-      <td>1:45–2:05</td>
-      <td>Prof. Sang-Woo Jun<br><i>(UC Irvine)</i></td>
-      <td><b>Genomics</b></td>
-      <td>Addressing the Data Movement Overhead of Genomic Accelerators</td>
-    </tr>
-    <tr>
-      <td>2:05–2:25</td>
-      <td>Dr. Hasindu Gamaarachchi<br><i>(UNSW)</i></td>
-      <td><b>Real-Time Genomics</b></td>
-      <td>Algorithms &amp; Architectures for Long Read Sequence Analysis</td>
-    </tr>
-    <tr>
-      <td>2:25–2:45</td>
-      <td>Elton Shih<br><i>(Cornell University)</i></td>
-      <td><b>Real-Time Genomics</b></td>
-      <td>Towards an Edge Algorithm–Hardware Co-Design Framework for Adaptive Sampling</td>
-    </tr>
-    <tr>
-      <td>2:45–3:05</td>
-      <td>Seunghee Han<br><i>(KAIST)</i></td>
-      <td><b>Genomics &amp; Proteomics</b></td>
-      <td>From Genomics to Proteomics: Architectural Solutions for Memory-Intensive Health Applications</td>
-    </tr>
-  </tbody>
-
-  <!-- BREAK (isolated so striping restarts cleanly) -->
-  <tbody class="break">
-    <tr><td colspan="4">3:05–3:30 — Coffee Break </td></tr>
-  </tbody>
-
-  <!-- AFTER BREAK (same borders + zebra, no washed-out rows) -->
-  <tbody class="session">
-    <tr>
-      <td>3:30–3:50</td>
-      <td>Nika Mansouri Ghiasi<br><i>(ETH Zurich)</i></td>
-      <td><b>(Meta)Genomics</b></td>
-      <td>Storage-Centric Systems for Genomics and Metagenomics</td>
-    </tr>
-    <tr>
-      <td>3:50–4:10</td>
-      <td>Dr. Konstantina Koliogeorgi<br><i>(ETH Zurich)</i></td>
-      <td><b>Genomics</b></td>
-      <td>MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem</td>
-    </tr>
-    <tr>
-      <td>4:10–4:30</td>
-      <td>Dr. Noelia Oliete Escuin<br><i>(BSC)</i></td>
-      <td><b>Genomics</b></td>
-      <td>A Tightly-Coupled Hardware Accelerator for Fast Pattern Exact-Matching in Genome Analysis</td>
-    </tr>
-    <tr>
-      <td>4:30–4:50</td>
-      <td>Dr. Lukas Breitwieser<br><i>(CERN)</i></td>
-      <td><b>Agent-Based Simulation</b></td>
-      <td>Current State and Future Directions in Scalable Agent-Based Simulation with TeraAgent</td>
-    </tr>
-  </tbody>
-</table>
+ 
 
 
-
-<h3 style="color:#1C538E;">📽️ Livestream</h3>
-<p>
-  For those who can't attend in person, you can join us online via the 
-  <strong>📽️ Livestream</strong>:
-  <a href="https://www.youtube.com/live/lTc_gQzFNJI" target="_blank" style="color:#15A9BA; text-decoration:none;">
-    https://www.youtube.com/live/lTc_gQzFNJI
-  </a>
-</p>
-
-<div style="margin-top: 1rem; display: flex; justify-content: center;">
-  <iframe width="720" height="405"
-          src="https://www.youtube.com/embed/lTc_gQzFNJI"
-          title="Arch4Health Livestream"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen
-          style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
-  </iframe>
-</div>
 
 

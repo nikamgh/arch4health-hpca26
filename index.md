@@ -45,7 +45,7 @@
   and the vital role of computer architecture in overcoming them to advance healthcare
 </h3>
 
-**Saturday (31st January) or Sunday (1st February) 2026, Sydney, Australia**  
+**31st January 2026 (Saturday), Sydney, Australia**  
 **In conjunction with [IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026)](https://conf.researchr.org/home/hpca-2026)**
 
 ## Workshop Description {#description}
@@ -92,7 +92,7 @@ We invite abstract submissions related to (but not limited to) the following top
 
 - **Extended Abstract Submission Deadline:** 20 December 2025
 - **Notification:** 27 December 2025
-- **Workshop Date:** Saturday (31st January) or Sunday (1st February) 2026
+- **Workshop Date:** 31st January 2026 (Saturday)
 
 ## Organizers {#organizers}
 

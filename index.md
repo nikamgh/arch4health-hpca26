@@ -45,7 +45,7 @@
   and the vital role of computer architecture in overcoming them to advance healthcare
 </h3>
 
-**Saturday 31 January 2025, Sydney, Australia**  
+**Saturday (31st January) or Sunday (1st February) 2026, Sydney, Australia**  
 **In conjunction with [IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026)](https://conf.researchr.org/home/hpca-2026)**
 
 ## Workshop Description {#description}
@@ -90,9 +90,9 @@ We invite abstract submissions related to (but not limited to) the following top
 
 ## Key Dates {#key-dates}
 
-- **Extended Abstract Submission Deadline:** 15 December 2025
-- **Notification:** 22 December 2025
-- **Workshop Date:** 31th (Saturday) January 2026
+- **Extended Abstract Submission Deadline:** 20 December 2025
+- **Notification:** 27 December 2025
+- **Workshop Date:** Saturday (31st January) or Sunday (1st February) 2026
 
 ## Organizers {#organizers}
 
@@ -176,8 +176,11 @@ TBD
 
 ## Previous Iteration {#previous-iteration}
 
-You can find information regarding the previous iteration of the workshop (held in conjunction with MICRO 2025 in Seoul) here: 
-[https://forms.gle/8ZmbDWH6szNQBchE8](https://events.safari.ethz.ch/micro25-arch4health/)
+<p>
+You can find information regarding the previous iteration of the workshop (held in conjunction with MICRO 2025 in Seoul) on this 
+<strong><a href="https://events.safari.ethz.ch/micro25-arch4health/" target="_blank">web page</a></strong>.
+</p>
+
 
  
 
